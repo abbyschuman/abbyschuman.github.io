@@ -1,0 +1,48 @@
+* { 
+	font-family: Veranda, Helvetica, sans-serif;
+	color: #DDA0DD;
+	text-align: center;
+}
+
+body {
+	width: 960px;
+	margin: 0 auto;
+}
+
+
+nav { 
+	background-color: #E6E6FA;
+	padding: 10px;
+	margin: 10px;
+}
+li {
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background-color: #E6E6FA;
+	padding: 10px;
+	margin: 10px;
+}
+
+article {
+	background-color: #E6E6FA;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float: right;
+}
+
+footer {
+	background-color: #E6E6FA;
+	padding: 10px;
+	margin: 10px;
+}
+
+
